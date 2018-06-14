@@ -1,12 +1,12 @@
 <!-- TITLE: An Adventure -->
 <!-- SUBTITLE: Sometimes an adventure needs notes -->
 
-## Session Notes
+# Session Notes
 
 * [June 10th, 2018](/session-notes/20180610)
 
 
-## Players
+# Players
 
 * [Björn Snø](/players/bjorn-sno)
 * [Daavids](/players/daavids)
@@ -15,20 +15,20 @@
 * [Omen](/players/omen)
 
 
-## People, Places, and Automobiles
+# People, Places, and Automobiles
 
-### Forest of Dancing Lights
+## Forest of Dancing Lights
 
-#### Sudbury
+### Sudbury
 
-#### Forest Clearing
+### Forest Clearing
 
-### Fülbahn
+## Fülbahn
 
 * [Melinsturm](/people/melinsturm)
 
-### Cloverwatch
+## Cloverwatch
 
-### Nulambelchazzar
+## Nulambelchazzar
 
 * [Jade Beards](/people/jade-beards)
