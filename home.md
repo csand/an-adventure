@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: An Adventure -->
+<!-- SUBTITLE: Sometimes an adventure needs notes -->
 
-# Sup bitches
+* Players
