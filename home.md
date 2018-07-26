@@ -3,6 +3,7 @@
 
 # Session Notes
 
+- [July 26th, 2018](/session-notes/20180726)
 - [June 10th, 2018](/session-notes/20180610)
 
 
